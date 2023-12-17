@@ -1,0 +1,3 @@
+C:/Personal/Programing R/AllProjects/C++/Uni_Final_Project/CHECKERSGAME/CheckersGame_Clion/cmake-build-debug/CMakeFiles/CheckersGame_Clion.dir
+C:/Personal/Programing R/AllProjects/C++/Uni_Final_Project/CHECKERSGAME/CheckersGame_Clion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Personal/Programing R/AllProjects/C++/Uni_Final_Project/CHECKERSGAME/CheckersGame_Clion/cmake-build-debug/CMakeFiles/rebuild_cache.dir

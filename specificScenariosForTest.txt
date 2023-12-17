@@ -1,0 +1,76 @@
+white starts.
+8x8:
+3g to 4f
+6f to 5g
+4f to 5e
+6d to 4f
+3c to 4d
+6b to 5c
+4d to 6b
+7a to 5c
+3a to 4b
+5c to 3a
+2b to 3c
+7c to 6b
+3c to 4d
+6b to 5a
+1c to 2b
+3a to 1c
+4d to 5c
+---critical point. try unallowed moves instead to check---
+1c to 2b
+1a to 3c
+
+
+
+
+
+
+
+
+
+white starts.
+5x5:
+2b to 3c
+4d to 2b
+1a to 3c
+5e te 4d
+3c to 5e
+5c to 4d
+5e to 3c
+4b to 3a
+3c to 4d
+5a to 4b
+4d to 5c
+redo
+
+white starts.
+5x5:
+2b to 3c
+4d to 2b
+1c to 3a
+5e to 4d
+2d to 3e
+4d to 3c
+1e to 2d
+3c to 1e
+redo
+3c to 1e
+1a to 2b
+1e to 2d
+redo 
+redo
+3e to 4d
+5c to 3e 
+3a to 5c 
+redo
+3a to 5c
+3e to 2d
+1a to 2b
+2d to 1c
+2b to 3a 
+1e to 2d
+redo
+
+
+ 
